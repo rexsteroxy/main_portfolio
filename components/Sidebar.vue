@@ -7,13 +7,21 @@
       <dl class="mb-4">
         <dt class="font-bold">Email</dt>
         <dd>
-          <a href="mailto:emils.gulbis@gmail.com">emils.gulbis@gmail.com</a>
+          <a
+            href="mailto:rexsteroxy22@gmail.com"
+            style="color:white;text-decoration:none"
+            >rexsteroxy22@gmail.com</a
+          >
         </dd>
       </dl>
 
       <dl class="mb-4">
         <dt class="font-bold">Phone</dt>
-        <dd><a href="tel:+37120303056">+371 20 30 30 56</a></dd>
+        <dd>
+          <a href="tel:+2349037096290" style="color:white; text-decoration:none"
+            >+2349037096290</a
+          >
+        </dd>
       </dl>
 
       <dl>
@@ -22,7 +30,7 @@
           <ul class="flex">
             <li v-if="facebook" class="mr-4">
               <a
-                href="https://www.facebook.com/emiils"
+                href="https://web.facebook.com/amadi.austin.77"
                 target="_blank"
                 rel="noopener"
                 aria-label="Find me on Facebook"
@@ -33,7 +41,7 @@
 
             <li v-if="linkedin" class="mr-4">
               <a
-                href="https://www.linkedin.com/in/emilsgulbis/"
+                href="https://www.linkedin.com/in/amadiaustinchukwuemeka/"
                 target="_blank"
                 rel="noopener"
                 aria-label="Get to know be better via Linkedin"
@@ -44,7 +52,7 @@
 
             <li v-if="twitter" class="mr-4">
               <a
-                :href="twitter"
+                href="https://www.twitter.com/rexsteroxxy/"
                 target="_blank"
                 rel="noopener"
                 aria-label="Follow me on Twitter"
@@ -55,7 +63,7 @@
 
             <li v-if="github" class="mr-4">
               <a
-                :href="github"
+                href="https://github.com/rexsteroxy"
                 target="_blank"
                 rel="noopener"
                 aria-label="Discover my projects on Github"
@@ -66,7 +74,7 @@
 
             <li v-if="stackoverflow" class="mr-4">
               <a
-                :href="stackoverflow"
+                href="#"
                 target="_blank"
                 rel="noopener"
                 aria-label="See how I help people on Stackoverflow"

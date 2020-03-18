@@ -10,17 +10,18 @@
       <h1
         class="text-black uppercase font-extrabold text-4xl leading-none mb-5"
       >
-        {{ firstName }}
+        Austin
         <div class="relative">
           <div
             class="absolute w-120px right-100 top-50 border-blue border-b-5 line-transform"
           ></div>
-          <span class="text-blue">{{ lastName }}</span>
+          <span class="text-blue">Amadi Chukwuemeka</span>
         </div>
       </h1>
-      <h2 class="mb-2">{{ position }}</h2>
+      <h2 class="mb-2">Software Engineer</h2>
       <p class="text-gray">
-        {{ aboutMe }}
+        Software engineer building mobile and web applications while
+        experimenting with BlockChain Technology.
       </p>
     </div>
   </div>
@@ -64,6 +65,6 @@ export default {
   transform: translate(-25px, -50%);
 }
 #photo {
-  background-image: url('~assets/images/emilsgulbis.jpg');
+  background-image: url('~assets/images/rex.jpg');
 }
 </style>

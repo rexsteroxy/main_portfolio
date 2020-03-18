@@ -2,8 +2,8 @@
   <div
     class="logo relative inline-block uppercase text-white font-extrabold leading-none inline-block"
   >
-    <strong class="block">frnt/nd</strong>
-    <small class="block leading-normal">developer</small>
+    <strong class="block">Software</strong>
+    <strong class="block leading-normal">Engineer</strong>
   </div>
 </template>
 

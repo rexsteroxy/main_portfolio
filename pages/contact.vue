@@ -31,12 +31,7 @@
         </button>
       </form>
 
-      <google-maps
-        :lat="56.484392"
-        :lng="21.017387"
-        :zoom="4"
-        class="h-300px"
-      />
+      <google-maps :lat="5.47631" :lng="7.025853" :zoom="4" class="h-300px" />
     </div>
 
     <div class="flex-1 pl-8">
@@ -45,23 +40,22 @@
           Contact me
         </h1>
 
-        <div class="p-6 shadow-lighter mb-8">
-          <p class="font-bold mb-2">Email</p>
-          <a href="mailto:emils.gulbis@gmail.com" class="hover:underline"
-            >emils.gulbis@gmail.com</a
-          >
-        </div>
-
-        <div class="p-6 mb-8">
-          <p class="font-bold mb-2">Phone</p>
-          <a href="tel:+37120303056" class="hover:underline"
-            >+371 20 30 30 56</a
-          >
-        </div>
-
-        <div class="p-6">
-          <p class="font-bold mb-2">Addresss</p>
-          <p>Mirdzas Kempes 3, Liepaja, Latvia, LV-3407</p>
+        <div class="list-group">
+          <div class="list-group-item">
+            <p class="item-title">Email</p>
+            <p><a href="rexsteroxy22@gmail.com">rexsteroxy22@gmail.com</a></p>
+          </div>
+          <div class="list-group-item">
+            <p class="item-title">Phone</p>
+            <p><a href="tel:+2349037096290">+2349037096290</a></p>
+          </div>
+          <div class="list-group-item">
+            <p class="item-title">Address</p>
+            <p>
+              Orji Opposite Blessed Tansi Catholic Church, Owerri Imo
+              state,Nigeria.
+            </p>
+          </div>
         </div>
       </div>
     </div>
