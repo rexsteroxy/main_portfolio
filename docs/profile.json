@@ -1,14 +1,14 @@
 {
-  "firstName": "Emils",
-  "lastName": "Gulbis",
-  "phone": "+37120303056",
-  "email": "emils.gulbis@gmail.com",
+  "firstName": "Austin",
+  "lastName": "Amadi Chukwuemeka",
+  "phone": "+2349037096290",
+  "email": "rexsteroxy22@gmail.com",
   "location": {
-    "address": "Kurmajas prospekts 7",
-    "city": "Liepaja",
-    "country": "Latvia"
+    "address": "Orji Opposite BIT catholic church",
+    "city": "Owerri",
+    "country": "Nigeria"
   },
-  "position": "Front-end developer",
-  "birthday": "1993/04/15",
-  "aboutMe": "I love to develop \n beautiful UI's"
+  "position": "Software Engineer",
+  "birthday": "1995/01/06",
+  "aboutMe": "I am a software developer with 2 years of experience working onweb and mobile applications"
 }
