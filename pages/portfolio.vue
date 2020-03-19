@@ -7,11 +7,8 @@
         :key="item"
         class="col-md-6 col-lg-6 col-xl-4 col-xxl-6"
       >
-        <div
-          class="portfolio__item"
-          :style="{ 'background-image': 'url(' + item.thumbnail + ')' }"
-        >
-          <div class="item__content">
+        <div class="portfolio__item">
+          <div class="item__content" :style="{ 'background-color': 'green' }">
             <p class="item__title">
               <a :href="item.url" target="_blank">
                 <i class="fa fa-link"></i>
@@ -23,6 +20,7 @@
           </div>
         </div>
       </div>
+      <hr />
     </div>
   </div>
 </template>

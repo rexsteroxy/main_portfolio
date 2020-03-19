@@ -6,36 +6,36 @@
 		"url" : "https://dscimsu-result-tracker.herokuapp.com/",
 		"date" : "2019-10",
 		"task" : "The Result Checker is your one -stop solution to keep track of your results. All we need is the data and it is done!",
-		"thumbnail" : "~assets/images/portfolio/tracker.png"
+		"thumbnail" : "./portfolio/tracker.png"
 	},
 	
 	
 	{
-		"title" : "Online_Result_Checker",
+		"title" : "OwerriTech-Hub",
+		"url" : "https://www.owerritechhub.com/",
+		"date" : "2019-12",
+		"task" : "We run IT training bootcamps with focus on best tools and practises used in the Tech ecosystem. We also incubate startups with the right tools for business growth.",
+		"thumbnail" : "./portfolio/owt.png"
+	},
+	{
+		"title" : "KennyDeliveryServices",
+		"url" : "https://kennydelivery.herokuapp.com/",
+		"date" : "2020-01",
+		"task" : "Delivery of various kinds of snacks.",
+		"thumbnail" : "./portfolio/kenny.png"
+	},
+	{
+		"title" : "School Results Management System ",
 		"url" : "http://orchecker.herokuapp.com/",
-		"date" : "2018-12",
+		"date" : "2019-12",
 		"task" : "A result management system for uploading and checking of student result",
-		"thumbnail" : "/images/portfolio/orc.png"
-	},
-	{
-		"title" : "PROSIMPLICITY",
-		"url" : "prosimplicity.000webhostapp.com",
-		"date" : "2018-03",
-		"task" : "A building construction site and services",
-		"thumbnail" : "/images/portfolio/simple.jpg"
-	},
-	{
-		"title" : "LUSSHUB",
-		"url" : "https://www.lusshub.com",
-		"date" : "2018-04",
-		"task" : "E-commerse site for sale of laptops and computer accessories",
-		"thumbnail" : "/images/portfolio/lusshub.jpg"
+		"thumbnail" :"./portfolio/orc.png"
 	},
 	{
 		"title" : "Edukit(Messenger Bot)",
 		"url" : "http://edukitt.herokuapp.com",
 		"date" : "2018-10",
 		"task" : "Edukitt brings learning to you in ways you enjoy,Games, chat and all that good stuff. ",
-		"thumbnail" : "/images/portfolio/edukit.jpg"
+		"thumbnail" : "./portfolio/edukit.png"
 	}
 ]
