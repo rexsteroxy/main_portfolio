@@ -1,5 +1,7 @@
 <template>
-  <aside class="w-280px p-10 flex flex-col justify-between bg-blue text-white">
+  <aside
+    class="w-280px p-10 flex flex-col justify-between bg-primary text-white"
+  >
     <header class="mb-5">
       <logo />
     </header>

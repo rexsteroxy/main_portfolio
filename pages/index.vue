@@ -13,9 +13,9 @@
         Austin
         <div class="relative">
           <div
-            class="absolute w-120px right-100 top-50 border-blue border-b-5 line-transform"
+            class="absolute w-120px right-100 top-50 border-primary border-b-5 line-transform"
           ></div>
-          <span class="text-blue">Amadi Chukwuemeka</span>
+          <span class="text-primary">Amadi Chukwuemeka</span>
         </div>
       </h1>
       <h2 class="mb-2">Software Engineer</h2>
