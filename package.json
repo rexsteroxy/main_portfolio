@@ -1,8 +1,8 @@
 {
   "name": "Portfolio",
   "version": "1.0.0",
-  "description": "FRONT-END.LV Portfolio",
-  "author": "Emīls Gulbis",
+  "description": "Software Engineer  Portfolio",
+  "author": "Amadi Austin",
   "private": true,
   "scripts": {
     "dev": "nuxt",

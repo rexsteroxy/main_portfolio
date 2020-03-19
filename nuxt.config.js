@@ -9,13 +9,14 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: 'Emīls Gulbis | Front-end developer',
+    title: 'Amadi Austin | Software Engineer',
     meta: [
       { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
       { hid: 'description', name: 'description', content: pkg.description }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favico.png' }],
+    // link: [{ rel: 'icon', type: 'image/x-icon', href: '/favico.png' }],
+    
     bodyAttrs: {
       class: 'bg-blue antialiased'
     },

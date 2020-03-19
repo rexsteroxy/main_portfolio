@@ -8,8 +8,11 @@ import '..\\assets\\css\\custom.scss'
 
 import _6f6c098b from '..\\layouts\\default.vue'
 
-let layouts = { "_default": _6f6c098b }
+const layouts = { "_default": _6f6c098b }
+
 export default {
+  head: {"title":"Amadi Austin | Software Engineer","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1.0"},{"hid":"description","name":"description","content":"Software Engineer  Portfolio"},{"hid":"mobile-web-app-capable","name":"mobile-web-app-capable","content":"yes"},{"hid":"apple-mobile-web-app-title","name":"apple-mobile-web-app-title","content":"Portfolio"},{"hid":"author","name":"author","content":"Amadi Austin"},{"hid":"theme-color","name":"theme-color","content":"#4c33fb"},{"hid":"og:type","name":"og:type","property":"og:type","content":"website"},{"hid":"og:title","name":"og:title","property":"og:title","content":"Portfolio"},{"hid":"og:site_name","name":"og:site_name","property":"og:site_name","content":"Portfolio"},{"hid":"og:description","name":"og:description","property":"og:description","content":"Software Engineer  Portfolio"}],"bodyAttrs":{"class":"bg-blue antialiased"},"link":[{"rel":"manifest","href":"\u002F_nuxt\u002Fmanifest.4ea5259c.json"}],"style":[],"script":[],"htmlAttrs":{"lang":"en"}},
+
   render(h, props) {
     const loadingEl = h('NuxtLoading', { ref: 'loading' })
     const layoutEl = h(this.layout || 'nuxt')
